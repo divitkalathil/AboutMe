@@ -4,6 +4,8 @@
 🎓 MS in Computer Science @ NC State University (May 2025)  
 📍 Raleigh, NC, USA  
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divitkalathil&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+
 ## 🔧 Tech Stack  
 **Languages:** Java, Python, C++, JavaScript, TypeScript  
 **Frameworks:** React, Node.js, Spring Boot, Flask  
@@ -28,3 +30,4 @@
 
 ## 📫 Connect with Me  
 [LinkedIn](https://www.linkedin.com/in/divit-kalathil-7654711a7/) | [LeetCode](https://leetcode.com/u/DivitNinja/) | 📧 divitkalathil@gmail.com  
+
