@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Divit Kalathil  
 
 🚀 **Software Development Engineer | Data Engineer**  
-🎓 MS in Computer Science @ NC State University (Dec 2024)  
+🎓 MS in Computer Science @ NC State University (May 2025)  
 📍 Raleigh, NC, USA  
 
 ## 🔧 Tech Stack  
